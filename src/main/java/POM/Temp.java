@@ -6,4 +6,10 @@ public class Temp {
 	{
 		System.out.println("i m tempreory");
 	}
+	public void temp()
+	{
+		System.out.println("im temp 2");
+	}
+	
+	
 }
